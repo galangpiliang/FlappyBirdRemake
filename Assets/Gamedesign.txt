@@ -1,0 +1,6 @@
+Flap
+1. get point when you pass the pipes
+2. move forward autamically
+3. one touch input - jumps you upwards
+4. die if you hit the pipes or if you fall of the screen
+5. score and highscore
